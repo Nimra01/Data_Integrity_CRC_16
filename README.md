@@ -89,8 +89,8 @@ Qt Serial Receiver
 Clone the repository:
 
 ```bash
-git clone <https://github.com/Nimra01/Data_Integrity_CRC_16.git>
-cd <your_project_folder>
+git clone https://github.com/Nimra01/Data_Integrity_CRC_16.git
+cd DataIntegrity
 ```
 Open the project in Qt Creator and ensure the following modules are enabled:
 
